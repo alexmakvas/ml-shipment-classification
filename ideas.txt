@@ -1,0 +1,34 @@
+Methods:
+KNN
+LDA
+QDA
+Naive Bayes Classificator
+Linear Regression
+
+
+to do:
+1) Introduction - Alex
+- Data origins: Either citation, or exlanation on how you created the data.
+- Used in scientific works? Google scholar (search for citations of the original publication).
+- What did others find out?
+-  State the problem. Why is the problem interesting? That is the thing to predict
+(with reasoning).
+2) Data - Vlad and Alex
+- Plots - Vlad
+- Motivation - Alex
+3) Method
+- Describe all steps of the classification evaluation: - Vlad
+- A few words on preliminary tests performed. -?
+- Parameters that are studied: For these, there is a graph / an extra performance
+measure. - Vlad
+- Order of experiments
+- - KNN, LDA, QDA, Naive Bayes - Vlad
+- - Linear regression (SVD? Ordinary?) - don't forget to plot a graph - Alex
+- - Feature engineering - Vlad
+- - Outliers, Cross validation, Resampling - Alex
+- - Clustering - Vlad
+- Selection of meaningfull performance measures: Confusion matrices, ROC, classwise averaged classification rates... - Vlad
+4) Results and discussion
+- What do we learn from the results? - Vlad and Alex
+
+
